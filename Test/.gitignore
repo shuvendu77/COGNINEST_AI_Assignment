@@ -1,0 +1,15 @@
+# Never commit your API key
+.env
+
+# Generated database — recreate with: python scripts/setup_database.py
+clinic.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
