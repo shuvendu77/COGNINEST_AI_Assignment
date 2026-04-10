@@ -1,0 +1,22 @@
+# Environment variables - NEVER commit this
+.env
+
+# Generated database file
+clinic.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
