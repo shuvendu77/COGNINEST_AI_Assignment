@@ -64,8 +64,8 @@ Test/
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/your-username/clinic-nlp-sql.git](https://github.com/shuvendu77/COGNINEST_AI_Assignment.git)
-cd clinic-nlp-sql/Test
+[git clone https://github.com/your-username/COGNINEST_AI_Assignment.git]
+cd COGNINEST_AI_Assignment/Test
 ```
 
 ### 2. Create a virtual environment
